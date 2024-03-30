@@ -13,6 +13,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasmvaladao&show_icons=true&count_private=true&hide_border=true&title_color=1d90ce&icon_color=1d90ce&text_color=fff&bg_color=00021e"  />
 </div> <br>
 
+
+ <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,react,mysql,git,github" />
@@ -27,8 +29,5 @@
   <a href="https://https://www.linkedin.com/in/lucas-valad%C3%A3o-1ba331278/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%23007?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "contato.valadao14@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> <br>
-
-![snake gif](https://github.com/lucasmvaladao/lucasmvaladao/blob/output/github-contribution-grid-snake.svg)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=00021e&section=footer"/>
