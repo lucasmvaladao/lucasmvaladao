@@ -28,5 +28,7 @@
   <a href = "contato.valadao14@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> <br>
 
+![snake gif](https://github.com/lucasmvaladao/lucasmvaladao/blob/output/github-contribution-grid-snake.svg)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=00021e&section=footer"/>
