@@ -25,7 +25,7 @@
   <h3>You can find me at:</h3>
   <div style="display: flex; flex-direction: row; width: 350px; justify-content: space-between;">
   </div>
-  <a href="https://https://www.instagram.com/luucas_mv/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E44?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/luucas_mv/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E44?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-valad%C3%A3o-1ba331278/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%23007?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato.valadao14@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> <br>
