@@ -5,7 +5,7 @@
   </h1>
 
   <p align="center">
-    Atualmente sou estudante de Desenvolvimento de Sistemas cursando o 2º semestre no <a href="https://sp.senai.br/unidade/suicobrasileira/"> Senai Suíço-Brasileira</a>.
+    "Atualmente, cursando o Superior de Tecnologia em Inteligência e Análise de Dados no <a href="https://sp.senai.br/unidade/suicobrasileira/"> Senai Suíço-Brasileira</a>.
   </p> <br>
 
 <div align="center">  
